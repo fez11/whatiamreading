@@ -9,6 +9,7 @@
 ## People
 #### Claude Shannon
 #### Richard Feynman
+The Uncertainty of Science http://fermatslibrary.com/s/the-uncertainty-of-science
 
 ## Academic Papers
 ### NLP
