@@ -7,6 +7,8 @@
 * Driven by Compression Progress https://arxiv.org/abs/0812.4360
 
 ## People
+#### Claude Shannon
+#### Richard Feynman
 
 ## Academic Papers
 ### NLP
