@@ -17,4 +17,5 @@ The Uncertainty of Science http://fermatslibrary.com/s/the-uncertainty-of-scienc
 
 ## Academic Papers
 ### NLP
+* SQuAD: 100,000+ Questions for Machine Comprehension of Text https://arxiv.org/pdf/1606.05250.pdf
 ### Deep Learning
